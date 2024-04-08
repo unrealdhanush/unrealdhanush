@@ -9,7 +9,7 @@
   - **LLMs** and its potential applications
   - **Machine Perception**
 - 👯 I’m looking to collaborate on topics related to **DANNs**, **self-supervised learning**, and **transfer learning in Machine vision**.
-- 📫 How to reach me: [dhanushbalakrishna45@gmail.com](mailto:dhanushbalakrishna45@gmail.com)
+- 📫 Reach out to me: [dhanushbalakrishna45@gmail.com](mailto:dhanushbalakrishna45@gmail.com)
 - ⚡ Fun fact: *AI can write a novel, but it's still struggling to understand the plot of "Game of Thrones."*
 
 I'm Dhanush Balakrishna, a Machine Learning Engineer specializing in Computer Vision and Natural Language Processing. Currently, I'm expanding my expertise by pursuing an MS in Electrical and Computer Engineering with a concentration in Machine Learning, Computer Vision and Algorithms at Northeastern University, Boston. 
