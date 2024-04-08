@@ -26,3 +26,22 @@ With a foundational education in Electrical and Computer Engineering from Northe
 Beyond my technical endeavors, I'm passionate about photography, video editing and sound design, hobbies that allow me to explore creativity beyond the realm of code.
 
 I welcome opportunities to collaborate and connect with fellow professionals and enthusiasts in the field of AI. Please feel free to reach out to me at [dhanushbalakrishna45@gmail.com](mailto:dhanushbalakrishna45@gmail.com).
+
+
+
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50" height="50" alt="MATLAB"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"  width="50" height="50" alt="RStudio"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  width="50" height="50" alt="PyTorch"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="matplotlib"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50" height="50" alt="nginx"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50" alt="laravel"/></a>
+</p>
+
+
+
